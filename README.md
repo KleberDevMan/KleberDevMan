@@ -5,7 +5,7 @@
 <img align="right" width="480" height="264" src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif">
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KleberDevMan&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=KleberDevMan&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=KleberDevMan&amp;theme=dark&layout=compact"/>
 </p>
 
